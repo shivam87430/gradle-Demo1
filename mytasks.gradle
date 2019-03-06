@@ -1,0 +1,3 @@
+task print{
+    println "This is question 6"
+}
